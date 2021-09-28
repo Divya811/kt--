@@ -1,0 +1,9 @@
+Questions based on KTs:
+•	What is CJI ?
+•	What is RCA – Root Cause Analysis and how it is different from PRB (Problem tasks)?
+•	What is Change Task tickets CTASK ?
+•	How is Threshold given in Splunk conditions ? For Ex. It is mentioned threshold as 150 and after viewing the result, it shows threshold exceeded. Is there any limit ?
+•	In Splunk alert message creation, Audit code (eg. ALBIL14) is given. How it is generated ?
+•	For Trigger conditions in Splunk, is there any particular syntax to create ? (seems like a code)
+•	In which case, we should use Unity Alerts. Why to contact ECC ?
+•	After creating alerts, how will the splunk team help to us , how can we proceed after that ?
